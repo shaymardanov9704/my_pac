@@ -12,8 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  my_pac:
-    path: ../pac/my_pac
+  package:
+    path: ../pac2
 
 dev_dependencies:
 
@@ -23,7 +23,4 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
 
